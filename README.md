@@ -17,6 +17,7 @@ O **_Logism_** é uma ferramenta educacional para projetar e simular circuitos l
 - Executa no Linux, MacOS X e Windows
 - Crie circuitos a partir de tabelas verdadeiras usando o módulo de análise combinacional
 
+
 **Logism disponivel para download neste link: https://sourceforge.net/projects/circuit/files/**
 
 
