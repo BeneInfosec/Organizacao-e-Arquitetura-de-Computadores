@@ -8,6 +8,7 @@ São trabalhos que foram realizados nos seguintes anos:
 ## Execução dos circuitos
 
 Para executar os arquivos **".circ"** é necessário instalar o Logism em sua máquina.
+
 O **_Logism_** é uma ferramenta educacional para projetar e simular circuitos lógicos digitais, apresentando uma interface simples de aprender circuitos hierárquicos, feixes de fios e uma grande biblioteca de componentes. Como um aplicativo Java, ele pode ser executado em várias plataformas.
 
 ### Recursos
